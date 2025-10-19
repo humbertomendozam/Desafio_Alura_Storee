@@ -17,7 +17,7 @@ El objetivo es determinar cuál tienda tiene el menor desempeño para tomar deci
 - GitHub
 
 ## 🧾 Resultado
-El análisis fue realizado con datos simulados en 4 archivos CSV.  
+El análisis fue realizado con datos de  4 archivos CSV.  
 Las conclusiones están detalladas dentro del notebook [Desafio_Alura_Store.ipynb](Desafio_Alura_Store.ipynb).
 
 ---
